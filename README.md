@@ -26,7 +26,7 @@ Simple External CS:GO Hack by 5R33CH4
 
             -Offsets.ini - Do not touch here, except in case of updates
 
-2nd - Run the cheat as ADMINISTRATOR and wait for it to load and let you know it is waiting for CSGO;
+2nd - Run the cheat as ADMINISTRATOR and wait for it to load and let you know it is waiting for    CSGO;
 
 3rd - Start CSGO and the cheat will be injected automatically;
 
